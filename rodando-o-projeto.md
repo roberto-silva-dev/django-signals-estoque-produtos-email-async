@@ -10,6 +10,9 @@ cd core
 ```bash
 pip install -r requirements.txt
 ```
+- Instale o Redis pelo link: `https://github.com/tporadowski/redis/releases` ou direto no site oficial `https://redis.io`
+
+
 ### Configre o arquivo .env com as credenciais do servidor de e-mail
 
 3️⃣ Realize as migrações:  
